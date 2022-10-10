@@ -1,4 +1,4 @@
-package de.egosanto.ms.movie;
+package de.egosanto.ms.movierating;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

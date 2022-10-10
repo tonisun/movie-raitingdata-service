@@ -8,11 +8,11 @@
 		<version>3.0.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>de.egosanto.ms.movie</groupId>
-	<artifactId>movie-catalog-service</artifactId>
+	<groupId>de.egosanto.ms.movierating</groupId>
+	<artifactId>movie-rating-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movie-catalog-service</name>
-	<description>Microservice Movie Catalog</description>
+	<name>movie-rating-service</name>
+	<description>Microservice Movie Rating</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

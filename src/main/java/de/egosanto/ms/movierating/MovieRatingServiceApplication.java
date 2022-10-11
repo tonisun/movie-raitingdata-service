@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieCatalogServiceApplication {
+public class MovieRatingServiceApplication {
 
+	//Port 8083/rating
 	public static void main(String[] args) {
-		SpringApplication.run(MovieCatalogServiceApplication.class, args);
+		SpringApplication.run(MovieRatingServiceApplication.class, args);
 	}
 
 }
